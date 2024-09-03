@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/vuepress-starter/',
   title: "ChatParts",
   description: "Procedure of using Chat-Parts",
   themeConfig: {
