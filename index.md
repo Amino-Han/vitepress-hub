@@ -11,10 +11,10 @@ hero:
     alt: 
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: Project Brief
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: Quick Start
       link: /api-examples
 
 features:
