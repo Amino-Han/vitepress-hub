@@ -6,6 +6,7 @@ export default defineConfig({
   title: "ChatParts",
   description: "Procedure of using Chat-Parts",
   head: [['link', { rel: 'icon', href: '/vuepress-starter/icon.png' }]],
+
   themeConfig: {
     siteTitle: 'Chat-Parts',
     logo: "/icon.png",
@@ -15,6 +16,11 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' }
     ],
+
+    docFooter: { 
+      prev: 'prev', 
+      next: 'next' 
+    },
 
     sidebar: [
       {
