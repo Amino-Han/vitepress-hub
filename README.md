@@ -1,3 +1,3 @@
 # Chat-Parts
 
-https://amino-han.github.io/vuepress-starter/
+https://amino-han.github.io/vitepress-hub/
