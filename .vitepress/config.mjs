@@ -7,6 +7,8 @@ export default defineConfig({
   description: "Procedure of using Chat-Parts",
   head: [['link', { rel: 'icon', href: '/vuepress-starter/icon.png' }]],
   themeConfig: {
+    siteTitle: 'Chat-Parts',
+    logo: "/icon.png",
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
