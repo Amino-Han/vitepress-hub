@@ -9,6 +9,7 @@ export default defineConfig({
   themeConfig: {
     siteTitle: 'Chat-Parts',
     logo: "/icon.png",
+    outlineTitle: "Page Navigation",
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
