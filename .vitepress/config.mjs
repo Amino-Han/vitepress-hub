@@ -31,6 +31,10 @@ export default defineConfig({
         },
         link: 'https://igem.org/'
       }
-    ]
+    ],
+    footer: {
+      message: 'Developed by XJTLU-Software 2024',
+      copyright: 'Copyright © 2024 Chat-Parts'
+    }
   }
 })
