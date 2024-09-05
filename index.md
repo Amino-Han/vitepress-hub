@@ -3,9 +3,12 @@
 layout: home
 
 hero:
-  name: "ChatParts"
-  text: "Procedure of using Chat-Parts"
-  tagline: My great project tagline
+  name: "Chat-Parts"
+  text: "RAG Retrieval System and LLM Connected by LangChain"
+  tagline: Build your own private knowledge base
+  image: 
+    src: /icon.png
+    alt: 
   actions:
     - theme: brand
       text: Markdown Examples
