@@ -2,10 +2,10 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/vuepress-starter/',
+  base: '/vitepress-hub/',
   title: "ChatParts",
   description: "Procedure of using Chat-Parts",
-  head: [['link', { rel: 'icon', href: '/vuepress-starter/icon.png' }]],
+  head: [['link', { rel: 'icon', href: '/vitepress-hub/icon.png' }]],
 
   themeConfig: {
     siteTitle: 'Chat-Parts',
